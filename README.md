@@ -1,2 +1,1 @@
-# mika-federation
-module federation demo
+# module federation demo

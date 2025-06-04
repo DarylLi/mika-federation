@@ -1,0 +1,18 @@
+{
+  "name": "mika-federation",
+  "version": "1.0.0",
+  "description": "module federation wraper",
+  "main": "index.js",
+  "scripts": {
+    "start-app-react": "node server-app-react",
+    "start-app-swiper": "node server-app-swiper",
+    "start-app-vue": "node server-app-vue",
+    "start-host": "node server-host",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "daryl",
+  "license": "ISC",
+  "devDependencies": {
+    "cors": "^2.8.5"
+  }
+}
